@@ -4,7 +4,8 @@ Echo State Network (Reservoir Computing) Coded by pure Python
 ## Requirements:
 Python 3.X, 
 numpy, 
-matplotlib
+matplotlib,
+scipy
 
 ## Description:
 1. This project is written by pure python without Tensorflow, CNTK, Caffe, or other machine learning toolkits, it is a light-weight project you can run it easier.
